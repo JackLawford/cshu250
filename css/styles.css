@@ -10,6 +10,8 @@ body{
 }
 .setting{
     background-color: white;
+    margin-top: 25%;
+    padding: 15%;
     height: 50px;
 }
 .container {
